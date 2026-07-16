@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project] 
 name = "example_package_kg573" 
-dynamic = []"version"]
+dynamic = ["version"]
 dependencies = ["numpy"]
 readme="README.md"
 
